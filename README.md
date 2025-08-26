@@ -21,7 +21,7 @@ This tool is built with Python and can be installed using pip.
    git clone https://github.com/arjsr33/youtube-playlist-creator.git
    cd yt-playlist-creator
 
-3. **Install the Tool**: Use pip to install the tool in "editable" mode. This allows you to make changes to the code without needing to reinstall.  
+4. **Install the Tool**: Use pip to install the tool in "editable" mode. This allows you to make changes to the code without needing to reinstall.  
    pip install \-e .
 
 ## **Configuration: One-Time Setup (Required)**
