@@ -105,4 +105,4 @@ create-playlist \--file "rock\_songs.txt" \--title "My Rock Anthems" \--descript
 
 ## **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/arjsr33/youtube-playlist-creator/blob/main/README.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/arjsr33/youtube-playlist-creator/blob/main/LICENSE) file for details.
