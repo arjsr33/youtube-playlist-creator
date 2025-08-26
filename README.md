@@ -18,7 +18,7 @@ This tool is built with Python and can be installed using pip.
 
 1. **Prerequisite**: Ensure you have Python 3.6 or newer installed. You can check by running python \--version.  
 2. **Clone the Repository**: First, get the source code from GitHub.  
-   git clone \[https://github.com/arjsr33/yt-playlist-creator.git\](https://github.com/arjsr33/yt-playlist-creator.git)  
+   git clone https://github.com/arjsr33/youtube-playlist-creator.git
    cd yt-playlist-creator
 
 3. **Install the Tool**: Use pip to install the tool in "editable" mode. This allows you to make changes to the code without needing to reinstall.  
@@ -105,4 +105,4 @@ create-playlist \--file "rock\_songs.txt" \--title "My Rock Anthems" \--descript
 
 ## **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/arjsr33/youtube-playlist-creator/blob/main/README.md) file for details.
