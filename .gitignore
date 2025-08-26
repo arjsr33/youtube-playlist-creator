@@ -1,0 +1,19 @@
+# Credentials and Tokens
+client_secret.json
+token.pickle
+
+# Python cache
+__pycache__/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS-specific files
+.DS_Store
